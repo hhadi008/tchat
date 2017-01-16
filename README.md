@@ -1,2 +1,0 @@
-# tchat
-Tchat MVC
